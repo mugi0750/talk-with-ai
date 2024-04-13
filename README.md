@@ -3,6 +3,8 @@
 ## セットアップ
 
 ```
+cd talk-with-ai
+npm install
 cp .env.example .env
 ```
 
